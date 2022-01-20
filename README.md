@@ -7,4 +7,4 @@ The .zip file has our game.
 James Fordham (1010010), Silas Maas (1010016), Duncan Painter (1010021), Fiona Whiteside (1010027)
 
 
-download folder then run .exe
+download file, unzip then run .exe(Windows only)
